@@ -1,0 +1,41 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8" />
+<title>basic leaflet map</title>
+<link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet-0.7.3/leaflet.css" />
+<link rel='stylesheet' href='file:///C:/Users/user/Desktop/New folder (3)/Leaflet-Coordinates-Control-master/Control.Coordinates.css' />
+</head>
+<body>
+<div id="map" style="width: 600px;height: 400px"></div>
+<script src="http://cdn.leafletjs.com/leaflet-0.7.3/leaflet.js"></script>
+<script src='file:///C:/Users/user/Desktop/New folder (3)/Leaflet-Coordinates-Control-master/Control.Coordinates.js'></script>
+<script>
+var map = L.map('map').setView([14.6, 2.9], 5);
+mapLink = 
+'<a href="http://openstreetmap.org">openstreetmap</a>,'+'<a href="http://mapsnigeriainitiative.wordpress.com">mapsNI</a>';
+L.tileLayer(
+'http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+attribution: ' &copy; ' + mapLink,
+maxZoom: 18,
+}).addTo(map);
+
+L.marker([8.00, 7.00]).addTo(map);
+
+
+
+var a = new L.Control.Coordinates({
+			position:"topright",
+			useDMS:true,
+			labelTemplateLat:"N {y}",
+			labelTemplateLng:"E {x}",
+			useLatLngOrder:true
+		}).addTo(map);
+
+map.on('click', function(e) {
+    a.setCoordinates(e);
+});
+
+</script>
+</body>
+</html>
