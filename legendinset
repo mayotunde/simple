@@ -1,0 +1,44 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8" />
+<title>HTMLCSS legend inset in a leaflet powered map</title>
+<link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet-0.7.3/leaflet.css" />
+</head>
+<body>
+<div id="map" style="width: 600px;height: 400px"></div>
+<script src="http://cdn.leafletjs.com/leaflet-0.7.3/leaflet.js"></script>
+<script>
+var map = L.map('map').setView([12.6, 2.9], 5);
+mapLink = '<a href="http://openstreetmap.org">openstreetmap</a>,'+'<a href="http://mapsnigeriainitiative.wordpress.com">mapsNI</a>';
+L.tileLayer('http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+attribution: ' &copy; ' + mapLink,maxZoom: 18}).addTo(map);
+
+L.circleMarker([7.57, 8.99], {fillColor:'#f45', color:'#000', fillOpacity: 0.8}).addTo(map);
+L.circleMarker([9.57, 8.23], {fillColor:'#f45', color:'#000', fillOpacity: 0.8, radius: 8}).addTo(map);
+L.circleMarker([7.01, 7.44], {fillColor:'#f45', color:'#000', fillOpacity: 0.8}).addTo(map);
+L.circleMarker([8.90, 10.49], {fillColor:'#f45', color:'#000', fillOpacity: 0.8}).addTo(map);
+L.circleMarker([9.01, 7.21], {fillColor:'#f45', color:'#000', fillOpacity: 0.8}).addTo(map);
+
+</script>
+<div id='legend' style='position:absolute;bottom:170px;right:390px;float:right;padding:15px;background:#fff'>
+  <strong>Points</strong>
+	<ul class= 'legend labels'>
+   <span style='background:#f45;width:15px;height:15px;'></span>High<br>
+          <span style='background:#f45;width:10px;height:10px;'></span>Low<br>
+    		</ul>
+        <small>Source: <a href="www.mapsnigeriainitiative.wordpress.com">mapsnigeriainitiative</a></small>
+</div>
+<style>
+ .legend label,
+.legend span {
+  border-radius:50%/50%;
+  float: left;
+  height:15px;
+  width:20%;
+  margin-right:5px;
+  border: 1px solid black; color: #000;
+        }
+</style>
+</body>
+</html>
