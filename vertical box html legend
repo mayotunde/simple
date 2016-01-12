@@ -1,0 +1,50 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8" />
+<title>Vertical box style legend</title>
+<link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet-0.7/leaflet.css" />
+</head>
+<body>
+
+<div id='legend' style='position:absolute;bottom:200px;right:140px;float:right;'>
+  <strong><em>Web Map Legend</strong></em><br>
+<small>Status of the Cadastral Plots</small>
+	<ul class= 'legend labels'>
+   <span style='background:#ea7;'></span>Fenced<br>
+<span style='background:#f45;'></span>Built<br>
+    		</ul>
+        <div class='legend-source'>Source: <a href="www.mapsnigeriainitiative.wordpress.com">mapsnigeriainitiative</a></div>
+</div>
+<style>
+
+.legend label,
+
+.legend span {display: block; width:20%;height:15px;float:left;border:1px solid black; color:#000;}
+
+</style>
+
+
+
+<div id="map" style="width: 600px;height: 400px"></div>
+<script src="http://cdn.leafletjs.com/leaflet-0.7/leaflet.js"></script>
+<script>
+var map = L.map('map').setView([7.577851434795945,8.998572430673164], 18);
+
+mapLink = '<a href="http://openstreetmap.org">openstreetmap</a>, ' +
+    '<a href="http://mapsnigeriainitiative.wordpress.com">mapsNI</a>';
+
+
+L.tileLayer(
+'http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+attribution: '&copy; ' + mapLink,
+maxZoom: 22
+}).addTo(map);
+
+L.polygon([[7.579024984415526,8.999229161496656],[7.57911350018793,8.999286268446554],[7.57923628102958,8.999072117384344],[7.57909065740796,8.998989312306946],[7.579024984415526,8.999229161496656]], {fillColor:'#ea7', color:'black', fillOpacity: 0.8}).bindPopup('Fenced').addTo(map);L.polygon([[7.577891409660878,8.998289750371725],[7.578105560723088,8.998426807051544],[7.578274026225357,8.998129850911937],[7.578039887730711,8.99802420215525],[7.577891409660878,8.998289750371725]], {fillColor:'#f45', color:'black', fillOpacity: 0.8}).bindPopup('Built').addTo(map);
+L.polygon([[7.578274026225357,8.998129850911937],[7.578105560723088,8.998426807051544],[7.578316857337142,8.998503901433935],[7.578493888881894,8.998255486201797],[7.578274026225357,8.998129850911937]], {fillColor:'#ea7', color:'black', fillOpacity: 0.8}).bindPopup('Fenced').addTo(map);L.polygon([[7.577794326946673,8.998503901433935],[7.577851434795945,8.998572430673164],[7.577988491475764,8.998652380403087],[7.578105560723088,8.998426807051544],[7.577891409660878,8.998289750371725],[7.577794326946673,8.998503901433935]], {fillColor: '#ea7', color:'black', fillOpacity:0.8}).bindPopup('Fenced').addTo(map);L.polygon([[7.577988491475764,8.998652380403087],[7.578179799758004,8.99873804082796],[7.578316857337142,8.998503901433935],[7.578105560723088,8.998426807051544],[7.577988491475764,8.998652380403087]], {fillColor: '#f45', color:'black', fillOpacity: 0.8}).bindPopup('Built').addTo(map);L.polygon([[7.578179799758004,8.99873804082796],[7.578439637279472,8.998886518897791],[7.578573838611817,8.998629537623117],[7.578316857337142,8.998503901433935],[7.578179799758004,8.99873804082796]], {fillColor: '#ea7', color:'black', fillOpacity:0.8}).bindPopup('Fenced').addTo(map);
+
+</script>
+</body>
+</html>
+
