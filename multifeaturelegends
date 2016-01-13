@@ -1,0 +1,101 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8" />
+<title>Multi feature Legends using HTML</title>
+<link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet-0.7/leaflet.css" />
+</head>
+<body>
+<div id='legend3' style="position:absolute;bottom:380px;right:170px;float:right";>
+ <strong><em>Web Map Legend</strong></em><br>
+<em>Places</em>
+	<ul class= 'legend3 labels'>
+   <span style='background:#FED976;width:15px;height:15px'></span>Hotels<br>
+ <span style='background:#316;width:15px;height:15px'></span>bars<br>
+        		</ul>
+<small><div class='legend-source'>Source: <a href="www.mapsnigeriainitiative.wordpress.com">mapsnigeriainitiative</a></div></small>
+        </div>
+<style type='text/css'>
+ .legend3 label,
+.legend3 span {
+  border-radius:50%/50%;
+  float:left;
+  height: 2px;
+  width:30%;
+  font-size: 6px;
+  margin-right: 5px;
+  margin-left: 0px;
+  border: 2px solid #fff;
+ list-style: none;
+       }
+</style>
+<div id='legend2' style="position:absolute;bottom:270px;right:170px;float:right";>
+<em>Roads</em>
+	<ul class= 'legend2 labels'>
+   <span style='background:#e9b50b;'></span>Main<br>
+    <span style='background:#f45;'></span>Minor<br>
+    		</ul>
+<small><div class='legend-source'>Source: <a href="www.mapsnigeriainitiative.wordpress.com">mapsnigeriainitiative</a></div></small>
+        </div>
+<style type='text/css'>
+ .legend2 label,
+.legend2 span {
+  display:block;
+  float:left;
+  height: 2px;
+  width:30%;
+  font-size: 6px;
+  margin-right: 5px;
+  margin-left: 0px;
+  border: 2px solid #fff;
+ list-style: none;
+       }
+</style>
+<div id='legend' style='position:absolute;bottom:150px;right:180px;float:right;'>
+ <em>Type of Parks</em>
+	<ul class= 'legend labels'>
+   <span style='background:#e9b50b;'></span>New<br>
+    <span style='background:#f45;'></span>Old<br>
+    		</ul>
+ <small><div class='legend-source'>Source: <a href="www.mapsnigeriainitiative.wordpress.com">mapsnigeriainitiative</a></div></small>
+        </div>
+<style type='text/css'>
+ .legend label,
+.legend span {
+  display:block;
+  float:left;
+  height:15px;
+  width:30%;
+  font-size: 6px;
+  margin-right: 0px;
+  margin-left: 0px;
+  border: 2px solid #fff;
+ list-style: none;
+       }
+</style>
+<div id="map" style="width: 600px;height: 400px"></div>
+<script src="http://cdn.leafletjs.com/leaflet-0.7/leaflet.js"></script>
+<script>
+var map = L.map('map').setView([6.65, 40. -2.15], 3);
+mapLink = '<a href="http://openstreetmap.org">openstreetmap</a>,'+ '<a href="http://mapsnigeriainitiative.wordpress.com">mapsnigeriainitiative</a>';
+L.tileLayer('http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {attribution: ' &copy; ' + mapLink,maxZoom: 18}).addTo(map);
+
+
+ L.polygon([[23.84, 1.17],[24.79, 3.11],[24.56, 3.78],[23.05, 6.94],[23.53, -3.34],[19.38, -0.10],[19.57, 4.84]], {fillColor:"#e9b50b", color:"#000", fillOpacity: 0.8, weight: 1}).
+bindPopup("Name: Limada").addTo(map);L.polygon([[11.55, 25.36],[6.53, 25.08],[2.30, 28.32],[1.71, 33.82],[8.94, 36.51],[13.41, 35.68],[13.21, 27.77]], {fillColor:"#f45", color:"#000", fillOpacity: 0.8, weight: 1})
+.bindPopup("Name: Mudodo").addTo(map);L.polygon([[-15.92, 20.62],[-20.07, 20.18],[-22.52, 21.60],[-23.75, 25.72],[-23.31, 31.09],[-18.33, 35.44],[-16.44, 38.88],[-11.65, 40.18]], 
+{fillColor:"#e9b50b", color:"#000", fillOpacity: 0.8, weight: 1}).bindPopup("Name: Kinew").addTo(map);
+
+L.polyline([[3.75,7.76],[4.89,6.90],[8.00,9.34],[10.11, 15.90],[19.57, 4.38],[8.77, 23.12]], {color:'#e9b50b', weight: 3}).addTo(map);
+L.polyline([[2.85,4.76],[7.22,6.80],[11.00,9.34],[13.11, 15.90]], {color:'#f45', weight: 2}).addTo(map);
+
+L.circleMarker([7.00, 9.00], {fillColor:'#FED976', color:'#fff', fillOpacity: 0.8}).addTo(map);
+L.circleMarker([14.00, 10.00], {fillColor:'#FED976', color:'#fff', fillOpacity: 0.8}).addTo(map);
+L.circleMarker([5.20, 12.00], {fillColor:'#FED976', color:'#fff', fillOpacity: 0.8}).addTo(map);
+L.circleMarker([6.20, 5.00], {fillColor:'#316', color:'#fff', fillOpacity: 0.8}).addTo(map);
+L.circleMarker([8.20, 11.56], {fillColor:'#316', color:'#fff', fillOpacity: 0.8}).addTo(map);
+
+</script>
+</body>
+</html>
+
