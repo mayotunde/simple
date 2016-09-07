@@ -2,9 +2,9 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="http://www.w3schools.com/lib/w3.css">
 <body>
-<h3 style='font-face:Open Sans;color:#000'> Creating web maps and publishing them on the web for others to
+<h4 style='font-face:Open Sans;color:#000'> Creating web maps and publishing them on the web for others to
 view, edit and update using the Mapbox Editor. The slideshow demonstrates the simple steps to create web based maps
-and embed them in HTML web pages.</h3>
+and embed them in HTML web pages.</h4>
 
 <p>Scroll through the slides and see how to use mapbox editor to publish your maps in minutes</p>
 
