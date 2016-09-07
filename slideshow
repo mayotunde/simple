@@ -1,0 +1,58 @@
+<html>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="http://www.w3schools.com/lib/w3.css">
+<body>
+<h3 style='font-face:Open Sans;color:#000'> Creating web maps and publishing them on the web for others to
+view, edit and update using the Mapbox Editor. The slideshow demonstrates the simple steps to create web based maps
+and embed them in HTML web pages.</h3>
+
+<p>Scroll through the slides and see how to use mapbox editor to publish your maps in minutes</p>
+
+<p><a href="https://www.dropbox.com/s/sup5pm13yjo5oho/329creeks.json?dl=0" Target="blank" style='color:red'>Download Sample data</a></p>
+
+<p> If you need a PDf version of this tutorial, kindly reach us by the Contact page.(Include your registration number in your request mail)</p>
+
+
+<div style="max-width:600px;position:relative;border:2px solid black">
+
+<img class="mySlides" src="https://cdn.rawgit.com/mayotunde/simple/gh-pages/creating%20web%20maps%20using%20the%20mapbox%20editor-001.jpg" style="width:100%">
+<img class="mySlides" src="https://cdn.rawgit.com/mayotunde/simple/gh-pages/creating%20web%20maps%20using%20the%20mapbox%20editor-002.jpg" style="width:100%">
+<img class="mySlides" src="https://cdn.rawgit.com/mayotunde/simple/gh-pages/creating%20web%20maps%20using%20the%20mapbox%20editor-003.jpg" style="width:100%">
+<img class="mySlides" src="https://cdn.rawgit.com/mayotunde/simple/gh-pages/creating%20web%20maps%20using%20the%20mapbox%20editor-004.jpg" style="width:100%">
+<img class="mySlides" src="https://cdn.rawgit.com/mayotunde/simple/gh-pages/creating%20web%20maps%20using%20the%20mapbox%20editor-005.jpg" style="width:100%">
+<img class="mySlides" src="https://cdn.rawgit.com/mayotunde/simple/gh-pages/creating%20web%20maps%20using%20the%20mapbox%20editor-006.jpg" style="width:100%">
+<img class="mySlides" src="https://cdn.rawgit.com/mayotunde/simple/gh-pages/creating%20web%20maps%20using%20the%20mapbox%20editor-007.jpg" style="width:100%">
+<img class="mySlides" src="https://cdn.rawgit.com/mayotunde/simple/gh-pages/creating%20web%20maps%20using%20the%20mapbox%20editor-008.jpg" style="width:100%">
+<img class="mySlides" src="https://cdn.rawgit.com/mayotunde/simple/gh-pages/creating%20web%20maps%20using%20the%20mapbox%20editor-009.jpg" style="width:100%">
+<img class="mySlides" src="https://cdn.rawgit.com/mayotunde/simple/gh-pages/creating%20web%20maps%20using%20the%20mapbox%20editor-010.jpg" style="width:100%">
+<img class="mySlides" src="https://cdn.rawgit.com/mayotunde/simple/gh-pages/creating%20web%20maps%20using%20the%20mapbox%20editor-011.jpg" style="width:100%">
+
+
+<button type="button" class="btn btn-default btn-arrow-left" style="position:absolute;top:45%;left:0;background:#e9b50b" onclick="plusDivs(-1)"></a>left</button>
+<button type="button" class="btn btn-default btn-arrow-right" style="position:absolute;top:45%;right:0;background:#e9b50b" onclick="plusDivs(1)"></a>right</button>
+
+
+</div>
+
+<script>
+var slideIndex = 1;
+showDivs(slideIndex);
+
+function plusDivs(n) {
+  showDivs(slideIndex += n);
+}
+
+function showDivs(n) {
+  var i;
+  var x = document.getElementsByClassName("mySlides");
+  if (n > x.length) {slideIndex = 1}    
+  if (n < 1) {slideIndex = x.length}
+  for (i = 0; i < x.length; i++) {
+     x[i].style.display = "none";  
+  }
+  x[slideIndex-1].style.display = "block";  
+}
+</script>
+
+</body>
+</html> 
