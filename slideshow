@@ -13,7 +13,7 @@ and embed them in HTML web pages.</h4>
 <p> If you need a PDf version of this tutorial, kindly reach us by the Contact page.(Include your registration number in your request mail)</p>
 
 
-<div style="max-width:700px;height:300px;position:relative;border:2px solid black">
+<div style="max-width:700px;height:200px;position:relative;border:2px solid black">
 
 <img class="mySlides" src="https://cdn.rawgit.com/mayotunde/simple/gh-pages/creating%20web%20maps%20using%20the%20mapbox%20editor-001.jpg" style="width:100%">
 <img class="mySlides" src="https://cdn.rawgit.com/mayotunde/simple/gh-pages/creating%20web%20maps%20using%20the%20mapbox%20editor-002.jpg" style="width:100%">
