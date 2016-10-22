@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Folder><name>plotschange</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+      <Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>7.6821784196816,8.98135318638524 7.68251242066003,8.98140170194952 7.68288244135184,8.98138876446635 7.68304616732166,8.98139199883718 7.68302652020528,8.98109767097294 7.6831935206945,8.98083568662903 7.68275473509537,8.98084862413194 7.68243055767512,8.9808518585076 7.68222426295315,8.98086803038544 7.68218824323979,8.98115588969031 7.6821784196816,8.98135318638524</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+      <Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>7.68248213135562,8.9820049115897 7.68250996477049,8.98204048960684 7.68265731814333,8.98205019270182 7.68287343642349,8.98206474734379 7.68312229989763,8.98207121607337 7.68331713380171,8.98208415353219 7.6834268302015,8.98208091916753 7.68348577155063,8.98207121607337 7.68359383069072,8.98206151297896 7.68366750737714,8.98198227103153 7.6837002525711,8.98195477892326 7.68357418357434,8.98183834173577 7.68345793813576,8.98178659186264 7.68339081048814,8.9817413107176 7.68327620230926,8.98159738132617 7.68318451576616,8.98149873305857 7.68306499580819,8.98145992061807 7.68291109339655,8.98146315498826 7.68269497511639,8.98148256120887 7.68257054337932,8.98149388150374 7.68253616092566,8.98149226431877 7.6824985039526,8.98152137364695 7.68249031765411,8.98153754549493 7.68251160203019,8.98156503763483 7.68248213135562,8.9820049115897</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+      <Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>7.68227583663364,8.9817946777808 7.68243956260346,8.98179791214801 7.68245593520045,8.98158282666542 7.68239044481252,8.98153107675583 7.68230694456791,8.98152137364695 7.68229220923062,8.98151975646211 7.68227583663364,8.9817946777808</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+      <Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>7.68207609095046,8.98205504424921 7.68218906186963,8.98205180988429 7.6822168952845,8.98203563805926 7.68222835610239,8.98184642765277 7.6822168952845,8.98182540426818 7.68210883614442,8.98181731835069 7.68209082628774,8.98185289638624 7.68209901258623,8.98198873976258 7.68206626739227,8.98200167722434 7.68207609095046,8.98205504424921</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+      <Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>7.68153825113959,8.98119510645995 7.68183786966437,8.98120319239131 7.68186815896878,8.98088056359026 7.68157263359325,8.98088137218412 7.68156199140521,8.98092827062405 7.68153825113959,8.98119510645995</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+      <Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>7.68158081989174,8.98114093071522 7.68176664886749,8.98113284478247 7.68176419297795,8.98093150499898 7.68161356508571,8.98093069640526 7.68158081989174,8.98093554796763 7.68158081989174,8.98114093071522</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+      <Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>7.68153088347095,8.98091371593644 7.68156362866491,8.98091533312399 7.6815734522231,8.98088056359026 7.68157427085295,8.98087086046399 7.68152924621125,8.98087247765171 7.68153088347095,8.98091371593644</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+      <Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>7.68150632457547,8.98141827809915 7.68205316931468,8.98141019217259 7.68209901258623,8.98135682505278 7.68212357148171,8.98114497368152 7.68212193422201,8.98094120812365 7.68210064984593,8.98088784093481 7.68186652170909,8.9808829893718 7.68183868829422,8.9811983408325 7.68153579525004,8.98119510645995 7.68150632457547,8.98141827809915</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+      <Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>7.68122962768648,8.98143849291476 7.68150468731578,8.9814174695065 7.68153743250974,8.98119268068051 7.68156362866491,8.98091452453021 7.68153088347095,8.98091775890528 7.68152597169185,8.98087247765172 7.6813000298535,8.98089996984207 7.68122962768648,8.98143849291476</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+      <Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>7.68124763754315,8.98139644609704 7.6812951180744,8.98139321172624 7.6812967553341,8.98131882118996 7.68125254932225,8.98132043837569 7.68124763754315,8.98139644609704</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+      <Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>7.68126892191923,8.98130426651803 7.68132458874897,8.98130750088962 7.68133441230716,8.98117489163077 7.68127710821772,8.98116680569879 7.68126892191923,8.98130426651803</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+      <Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>7.68094801901838,8.98146598506216 7.68113139210458,8.9814530475813 7.68114121566277,8.9813786570573 7.68114449018217,8.98130750088962 7.68096439161536,8.98129456340309 7.68094801901838,8.98146598506216</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+      <Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>7.68114121566277,8.98131073526118 7.68114121566277,8.98138350861368 7.68112975484488,8.98145466476642 7.68122799042678,8.98144334447034 7.6812983925938,8.98090482140483 7.68124436302376,8.98087894640258 7.68111993128669,8.98093069640526 7.68101514666601,8.9810018526469 7.68097912695265,8.98108756355578 7.68096930339446,8.98116033695307 7.68096275435566,8.98129456340309 7.68114121566277,8.98131073526118</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+      <Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>7.68145556952483,8.98080293857273 7.6816700505453,8.98082557920456 7.68187798252697,8.98082072764072 7.68201878686102,8.98082557920456 7.68211047340412,8.98079646982051 7.68215467941597,8.9806848838267 7.68216941475326,8.98048596957863 7.68218251283084,8.98031454745615 7.68218578735024,8.98019810974183 7.68181249213904,8.98022398479268 7.68150305005608,8.98022075041142 7.68146703034272,8.98033071935795 7.68142282433087,8.98050375866216 7.68141300077268,8.98064121973281 7.68142773610996,8.98075442292833 7.68145556952483,8.98080293857273</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+      <Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>7.68145884404423,8.98071884478498 7.68149650101728,8.98071722759656 7.68151287361427,8.98062666503369 7.68146211856362,8.98062504784486 7.68145229500543,8.98070105571199 7.68145884404423,8.98071884478498</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+      <Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>7.68151123635457,8.98048111801024 7.68155707962612,8.9804827351997 7.68159309933948,8.98022721917391 7.68154070702914,8.98022721917391 7.68151123635457,8.98048111801024</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+      <Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>7.68188453156576,8.98033071935795 7.68214485585778,8.98031616464636 7.68214321859809,8.98021751603014 7.68187961978667,8.98023853950798 7.68188453156576,8.98033071935795</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+      <Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>7.68094801901838,8.98097597765156 7.6810167839257,8.98094201671737 7.68111665676729,8.98088056359027 7.68122635316708,8.98084013389572 7.68132458874897,8.98082072764072 7.68137206928022,8.98078353231575 7.68138189283841,8.98071561040814 7.68137861831901,8.9805749149876 7.68140645173388,8.98043583670214 7.68142937336966,8.98034365687888 7.68143755966815,8.98026926612725 7.68140972625328,8.98024015669853 7.68132295148927,8.98024824265118 7.68117887263583,8.98025471141319 7.6810184211854,8.98026926612725 7.68079739112614,8.98028382084072 7.68063857693541,8.98029514117302 7.68056490024899,8.98037438348924 7.6805599884699,8.9805150789876 7.68051741971774,8.98071075884282 7.68050759615955,8.98078676669198 7.68053379231473,8.98085145421064 7.68060746900114,8.98088218077796 7.68071225362183,8.98088703234098 7.68084814617679,8.98089350109157 7.6809267346423,8.98093069640526 7.68094801901838,8.98097597765156</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+      <Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>7.68045029207012,8.98149913735481 7.68078429304855,8.98149105143006 7.68084650891709,8.98147811395008 7.68089890122743,8.98138755157728 7.68091036204532,8.98123068455658 7.68091527382441,8.98110454401645 7.68093164642139,8.98102045029867 7.68093328368109,8.98099942686617 7.68090381300653,8.98093959093623 7.6808383226186,8.98091048156134 7.68068933198606,8.98091695031152 7.6805616257296,8.98090077843586 7.68048794904318,8.98084094248965 7.68046993918649,8.98073420807459 7.68044538029102,8.98072773932114 7.68045029207012,8.98149913735481</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+      <Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>7.68316159413038,8.97999110926848 7.68351033044611,8.98012048457817 7.6836036542489,8.97985203075908 7.68328766312715,8.97972912412496 7.68316159413038,8.97999110926848</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+      <Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>7.68344320279848,8.98006711726851 7.68351033044611,8.98009784390231 7.68354798741917,8.97999757803506 7.68347758525214,8.97996361700922 7.68344320279848,8.98006711726851</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+      <Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>7.6829602111875,8.9799167184445 7.68315995687068,8.97999110926848 7.68328766312715,8.9797323585106 7.68310592730064,8.97965796763354 7.6829602111875,8.9799167184445</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+      <Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>7.6829602111875,8.9799167184445 7.68310429004095,8.97965796763354 7.6829585739278,8.97959813148221 7.68280303425647,8.97984556198989 7.6829602111875,8.9799167184445</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+      <Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>7.68271953401186,8.97980351498743 7.68280467151617,8.97984556198989 7.68295693666811,8.97960298306242 7.68285542656681,8.97959004551505 7.68271953401186,8.97980351498743</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+      <Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>7.6822234443233,8.98087247765173 7.68318287850646,8.98083689951996 7.68320580014224,8.98076574324594 7.68327456504956,8.98056844623132 7.68331713380172,8.98044877421932 7.68328111408836,8.98040996166641 7.68320907466163,8.98038408662882 7.68293074051293,8.98029675836333 7.68273754386854,8.98022236760207 7.68247885683622,8.98009299232873 7.68227911115304,8.98000242960992 7.6822234443233,8.98087247765173</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+      <Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>7.68223981692028,8.98063313378893 7.682311856347,8.98062989941133 7.68230858182761,8.98035821158938 7.68225618951726,8.98035497720932 7.68223981692028,8.98063313378893</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+      <Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>7.68121325508949,8.97987548004637 7.6814850401994,8.97987871443071 7.68153088347095,8.97953586953049 7.68149977553668,8.97947603335902 7.68125909836104,8.97955365866064 7.68121325508949,8.97987548004637</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+      <Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>7.68125909836104,8.97985769093201 7.681394990916,8.97984960497065 7.68138025557871,8.97972508114288 7.68126892191923,8.97971214359986 7.68123945124466,8.97977683131026 7.68125909836104,8.97985769093201</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+      <Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>7.68121325508949,8.97987709723855 7.68125582384165,8.97955689304785 7.68113466662398,8.97958600253142 7.68107899979424,8.97987062846981 7.68121325508949,8.97987709723855</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+      <Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>7.68109537239122,8.97986415970096 7.68119851975221,8.97985607373975 7.68119851975221,8.97981564393095 7.68110355868971,8.9798140267385 7.68109373513152,8.97983666743208 7.68109537239122,8.97986415970096</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+      <Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>7.68072371443972,8.97989326915987 7.68080230290524,8.97988356600717 7.68076464593218,8.97971214359986 7.68067787116817,8.97972993272137 7.68072371443972,8.97989326915987</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+      <Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>7.68066477309059,8.97965230745749 7.68080066564554,8.97961996359262 7.68075318511429,8.97946309580712 7.68062711611753,8.97951322881812 7.68066477309059,8.97965230745749</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+      <Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>7.68072043992033,8.97962966675238 7.68079575386644,8.97961187762596 7.68075154785459,8.97946471300114 7.68063039063692,8.97950999443053 7.680651675013,8.97957953375749 7.68070734184274,8.97956174462861 7.68072043992033,8.97962966675238</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+      <Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>7.6809300091617,8.9795665962093 7.68118214715522,8.97949058810434 7.68114285292247,8.97936121256988 7.68088416589015,8.97943236911954 7.6809300091617,8.9795665962093</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+      <Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>7.68117559811643,8.97941296278921 7.68126892191923,8.97938223609737 7.68124436302376,8.97931916551125 7.68115758825975,8.97934504062482 7.68117559811643,8.97941296278921</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+      <Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>7.68045192932982,8.97958600253142 7.68054361587292,8.97961349481931 7.68057472380718,8.97949543968599 7.68048794904318,8.97947603335902 7.68045192932982,8.97958600253142</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+      <Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>7.68113794114337,8.98002749607901 7.68125746110135,8.98003234765345 7.68126237288044,8.97988356600717 7.68112484306579,8.97989165196777 7.68112975484488,8.98000323820573 7.68115431374035,8.98000970697209 7.68113794114337,8.98002749607901</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+      <Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>7.68096766613476,8.98000808978051 7.68099549954963,8.98001132416366 7.68100204858842,8.98002911327049 7.68105444089877,8.98002749607901 7.68105444089877,8.98000647258892 7.68107736253454,8.98000323820573 7.68108554883303,8.97989650354405 7.68096602887506,8.97990620669641 7.68096766613476,8.98000808978051</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+      <Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>7.68087434233196,8.98204170249373 7.68087925411105,8.98210962415288 7.68151778539336,8.98206596023061 7.6815734522231,8.98151773498107 7.68103151926299,8.98155493023071 7.68101187214661,8.98180882813717 7.68098895051084,8.98189453885524 7.68099222503023,8.98202553066825 7.68087434233196,8.98204170249373</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+      <Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>7.68152105991276,8.98206919459539 7.68167496232439,8.9820643430482 7.6816667760259,8.98179103911766 7.68154561880823,8.98178133601575 7.68152105991276,8.98206919459539</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+      <Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>7.68167987410349,8.98206919459539 7.68181576665844,8.9820643430482 7.68181249213905,8.98179912503572 7.6816700505453,8.98179427348491 7.681671687805,8.98196731209053 7.6816733250647,8.9820643430482 7.68167987410349,8.98206919459539</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+      <Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>7.68181576665844,8.9820643430482 7.68194183565521,8.98207242896016 7.68196475729098,8.98180559377004 7.68181576665844,8.98179912503572 7.68181249213905,8.98190585913724 7.68181576665844,8.9820643430482</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+      <Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>7.68173881545263,8.98164549256168 7.6818501491121,8.98165196129875 7.6818501491121,8.98154522712247 7.68173717819293,8.98155331304601 7.68173881545263,8.98164549256168</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+      <Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>7.68053215505503,8.98209021796586 7.68069751828455,8.98209506951271 7.68069751828455,8.98194628871295 7.68052396875654,8.9819608433591 7.68053215505503,8.98209021796586</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+      <Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>7.68172080559594,8.9793341245615 7.68186160992999,8.97930178066826 7.68181167350919,8.97912793219266 7.68167414369454,8.97917887384763 7.68172080559594,8.9793341245615</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+      <Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>7.68175355078991,8.9792759055516 7.68180594310025,8.97926215939511 7.681801849951,8.97924032726316 7.68183623240467,8.97922253811763 7.68180021269131,8.9791335923769 7.68168724177213,8.97917159646879 7.681715075187,8.97926620238237 7.68174618312127,8.97925892500528 7.68175355078991,8.9792759055516</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+      <Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>7.68132213285942,8.97944732816513 7.68159637385888,8.9793575738823 7.68157754537235,8.97927994853869 7.68155462373657,8.97921364354453 7.68127137780878,8.97930582365508 7.68132213285942,8.97944732816513</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+      <Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>7.68132295148927,8.97938991777057 7.68142609885026,8.97935514809056 7.68141791255177,8.97931067523919 7.68138189283841,8.97927105396701 7.6812934808147,8.97930582365508 7.68132295148927,8.97938991777057</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+      <Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>7.68144902048604,8.97934301913164 7.68157754537235,8.97930258926563 7.68154971195748,8.97921930372744 7.68142036844132,8.97925569061541 7.68144902048604,8.97934301913164</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+      <Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>7.68197867399841,8.97922092092253 7.68211211066382,8.97918534262871 7.68207854684,8.97905354119159 7.6819434729149,8.97909073669403 7.68197867399841,8.97922092092253</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+      <Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>7.68219069912933,8.97946754309063 7.68253288640626,8.97944813676218 7.68266386718212,8.9793009720709 7.68276865180281,8.97912469780163 7.68278829891919,8.97907618193266 7.6827735635819,8.97902604886125 7.68267860251941,8.97898561895989 7.6825901904957,8.97896136101691 7.68257545515842,8.97893710307231 7.68246575875864,8.97893872026868 7.6824068174095,8.97896782980187 7.68226601307545,8.97910690865043 7.68213503229959,8.97918453403108 7.68219069912933,8.97946754309063</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+      <Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>7.68212193422201,8.97947724625448 7.68219069912933,8.97946916028462 7.68214976763688,8.97925730781034 7.68206626739227,8.97927994853869 7.68208591450865,8.97936404266019 7.68212193422201,8.97947724625448</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+      <Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>7.68189271786426,8.9796357312271 7.68196475729098,8.97964543438644 7.68199422796555,8.97941741007333 7.68192382579852,8.97940932410215 7.68189271786426,8.9796357312271</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+      <Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>7.68211047340412,8.97986052101844 7.68216941475326,8.97983949751868 7.68209246354744,8.97970041895112 7.68206299287287,8.97972144245894 7.68211047340412,8.97986052101844</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+      <Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>7.68046748329694,8.9794129627892 7.6806001013325,8.97944934965773 7.68061892981903,8.97935474379194 7.68048876767302,8.97931431392723 7.68046748329694,8.9794129627892</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+      <Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>7.68051905697744,8.97931350532989 7.68062466022797,8.97934665781936 7.68063939556526,8.97925771210908 7.68054197861321,8.97923587997685 7.68051905697744,8.97931350532989</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+      <Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>7.6805550766908,8.97919221570847 7.68066313583088,8.97922294241639 7.68066968486967,8.97916634058397 7.68057472380718,8.97911863331836 7.6805550766908,8.97919221570847</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+      <Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>7.68284724026833,8.97958600253141 7.68291273065626,8.97959570569207 7.68295857392781,8.97959570569207 7.68310920182005,8.9796636278095 7.68329257490625,8.97973154991418 7.68360365424891,8.9798609253165 7.6836167523265,8.97975742499834 7.68362657588469,8.97968626851247 7.68366259559805,8.97963451833216 7.6838950864752,8.97974772184199 7.68388853743641,8.97911054734051 7.68372481146658,8.97919464150128 7.68363639944288,8.97920111028208 7.68347594799245,8.97914612564169 7.68323363355711,8.97906850025281 7.68295202488901,8.97900057802391 7.68289308353988,8.97902645316023 7.68262457294937,8.97946309580711 7.68284724026833,8.97958600253141</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+</Folder>
+</Document></kml>
